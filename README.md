@@ -62,3 +62,22 @@ ISBN-13: 9781718503922
     Covers reservoir computing methods for forecasting chaotic systems such as the Lorenz attractor.
 
 ---
+
+## Progreso
+
+| Capítulo | Tema | Estado |
+|----------|------|--------|
+| 01 | Dense Neural Networks for Classification | ⬜ |
+| 02 | Dense Neural Networks for Regression | ⬜ |
+| 03 | Convolutional Neural Networks | ⬜ |
+| 04 | Encoders–Decoders | ⬜ |
+| 05 | U-Nets | ⬜ |
+| 06 | Self-Supervised Learning | ⬜ |
+| 07 | Recurrent Neural Networks | ⬜ |
+| 08 | Attention and Transformers | ⬜ |
+| 09 | Generative Adversarial Networks | ⬜ |
+| 10 | Diffusion Models | ⬜ |
+| 11 | Graph Neural Networks | ⬜ |
+| 12 | Active Learning | ⬜ |
+| 13 | Reinforcement Learning | ⬜ |
+| 14 | Reservoir Computing | ⬜ |
